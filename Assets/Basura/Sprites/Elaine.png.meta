@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: 7302ffbe44a32854b85443a77f84f6f7
+timeCreated: 1488041010
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Elaine_0
+    21300002: Elaine_1
+    21300004: Elaine_2
+    21300006: Elaine_3
+    21300008: Elaine_4
+    21300010: Elaine_5
+    21300012: Elaine_6
+    21300014: Elaine_7
+    21300016: Elaine_8
+    21300018: Elaine_9
+    21300020: Elaine_10
+    21300022: Elaine_11
+    21300024: Elaine_12
+    21300026: Elaine_13
+    21300028: Elaine_14
+    21300030: Elaine_15
+    21300032: Elaine_16
+    21300034: Elaine_17
+    21300036: Elaine_18
+    21300038: Elaine_19
+    21300040: Elaine_20
+    21300042: Elaine_21
+    21300044: Elaine_22
+    21300046: Elaine_23
+    21300048: Elaine_24
+    21300050: Elaine_25
+    21300052: Elaine_26
+    21300054: Elaine_27
+    21300056: Elaine_28
+    21300058: Elaine_29
+    21300060: Elaine_30
+    21300062: Elaine_31
+    21300064: Elaine_32
+    21300066: Elaine_33
+    21300068: Elaine_34
+    21300070: Elaine_35
+    21300072: Elaine_36
+    21300074: Elaine_37
+    21300076: Elaine_38
+    21300078: Elaine_39
+    21300080: Elaine_40
+    21300082: Elaine_41
+    21300084: Elaine_42
+    21300086: Elaine_43
+    21300088: Elaine_44
+    21300090: Elaine_45
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Elaine_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 158
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elaine_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1020
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elaine_2
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1020
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elaine_3
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1020
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elaine_4
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1020
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elaine_5
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1020
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elaine_6
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1020
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elaine_7
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 571
+        width: 168
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elaine_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 220
+        width: 94
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elaine_9
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 61
+        width: 244
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elaine_10
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 389
+        width: 140
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elaine_11
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 418
+        width: 144
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elaine_12
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 346
+        width: 115
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elaine_13
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 689
+        width: 221
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elaine_14
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 781
+        width: 144
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elaine_15
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 193
+        width: 79
+        height: 831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elaine_16
+      rect:
+        serializedVersion: 2
+        x: 2126
+        y: 179
+        width: 77
+        height: 845
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elaine_17
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 217
+        width: 115
+        height: 807
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elaine_18
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 49
+        width: 51
+        height: 975
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elaine_19
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 346
+        width: 39
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elaine_20
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 672
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elaine_21
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 674
+        width: 99
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elaine_22
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 672
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elaine_23
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 674
+        width: 92
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elaine_24
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 672
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elaine_25
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 674
+        width: 89
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elaine_26
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 672
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elaine_27
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 674
+        width: 92
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elaine_28
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 247
+        width: 147
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elaine_29
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 674
+        width: 87
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elaine_30
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 571
+        width: 88
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elaine_31
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 241
+        width: 151
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elaine_32
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 425
+        width: 172
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elaine_33
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 610
+        width: 466
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elaine_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 142
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elaine_35
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 10
+        width: 138
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elaine_36
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 322
+        width: 88
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elaine_37
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 10
+        width: 92
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elaine_38
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 326
+        width: 85
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elaine_39
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 70
+        width: 131
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elaine_40
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 82
+        width: 115
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elaine_41
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 17
+        width: 108
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elaine_42
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 2
+        width: 94
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elaine_43
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 22
+        width: 24
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elaine_44
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 173
+        width: 4
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Elaine_45
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 125
+        width: 113
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
